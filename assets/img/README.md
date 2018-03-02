@@ -1,0 +1,1 @@
+一些图片来自 <https://github.com/twitter/twemoji>
