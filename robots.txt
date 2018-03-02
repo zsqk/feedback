@@ -1,0 +1,7 @@
+# Baidu
+User-agent: Baiduspider
+Disallow: /
+
+# Google
+User-agent: Googlebot
+Disallow: /
