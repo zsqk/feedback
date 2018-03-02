@@ -9,3 +9,10 @@ header, footer {
 section {
     width: auto;
 }
+
+img[src*="#emoji"] {
+    height: 1rem;
+    display: inline-block;
+    position: relative;
+    top: 2px;
+}
