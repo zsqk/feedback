@@ -5,9 +5,11 @@
 
 header, footer {
     position: relative;
+    float: none;
 }
 section {
     width: auto;
+    float: none;
 }
 
 img[src*="#emoji"] {
